@@ -1,2 +1,8 @@
 var myName = "Brady Snuggs";
-console.log(myName);
+var iAmAPerson = {
+    name: myName,
+    age: 27,
+    sex: "male",
+    city: "provo"
+};
+
